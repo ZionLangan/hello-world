@@ -1,2 +1,4 @@
 # hello-world
-hello-world repo following the https://guides.github.com/activities/hello-world/ guide
+Hello fellow humans,
+
+If you are reading this my cyber-malware^tm has already infected your mainframe!
